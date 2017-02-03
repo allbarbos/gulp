@@ -1,0 +1,30 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allbarbos/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allbarbos/gulp/issues"
+  },
+  "homepage": "https://github.com/allbarbos/gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-html-replace": "^1.5.4",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-usemin": "^0.3.14"
+  }
+}
